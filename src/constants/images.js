@@ -42,6 +42,9 @@ import nodejs from '../assets/nodejs.png';
 import mongo from '../assets/mongo.png';
 import byakkuyarm from '../assets/byakkuyarm.png';
 import l from '../assets/l.png'
+import nextjs from '../assets/nextjs.png'
+import nextjsSvg from '../assets/nextjsSvg.svg'
+import spring from '../assets/spring-3.svg'
 
 export default {
   email,
@@ -84,4 +87,7 @@ export default {
   byakkuyarm,
   l,
   logob,
+  nextjs,
+  nextjsSvg,
+  spring,
 };
