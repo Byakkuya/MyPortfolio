@@ -45,6 +45,9 @@ import l from '../assets/l.png'
 import nextjs from '../assets/nextjs.png'
 import nextjsSvg from '../assets/nextjsSvg.svg'
 import spring from '../assets/spring-3.svg'
+import postgres from '../assets/postgres.svg'
+import nest from '../assets/nest.svg'
+
 
 export default {
   email,
@@ -90,4 +93,6 @@ export default {
   nextjs,
   nextjsSvg,
   spring,
+  postgres,
+  nest,
 };
